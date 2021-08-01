@@ -1,8 +1,8 @@
-### Hi there, I am Deepesh Verma 👋
+### Hi there, I'm Deepesh Verma 👋
 
-I have extensively worked on enterprise application development and have a strong career of 8 years.
+I have extensively worked on enterprise application development and have a strong career of 8 years. I have been building cloud native sophisticated software at agile speed in the companies such as J.P. Morgan. 
 
-I have been building cloud native sophisticated software at agile speed in the companies such as J.P. Morgan. Currently I am working as a Software Enginner in Walmart.
+Currently I am working as a Software Enginner in Walmart's Food Safety India team.
 
 I have done open source contribution to spring-retry and spring-kafka projects, and was a speaker at the Hyperledger Global Forum 2021.
 
